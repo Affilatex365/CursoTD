@@ -2,3 +2,5 @@ Indice
 Historia dxel dinero
 Crisis economicas
 Criptografia
+* Bitcoin
+** Blockchain
